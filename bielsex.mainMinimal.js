@@ -33,7 +33,7 @@ function setupMain(){
     (function () {
         const phrases = [ 
             "🔥 Get good, get [Bielsex.main](https://github.com/Httpsxnig/Bielsex.main/)",
-            "🤍 Made by [Richthe](https://github.com/Httpsxnig).",
+            "🤍 Made by [Richthe](https://richthe.online).",
             "☄️ By [Httpsxnig/Bielsex.main](https://github.com/Httpsxnig/Bielsex.main/).",
             "🌟 Star the project on [GitHub](https://github.com/Httpsxnig/Bielsex.main/)!",
             "🪶 Lite mode @ Bielsex.mainMinimal.js",
