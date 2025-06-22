@@ -18,7 +18,7 @@ By creating this repository, I grant permission for everyone to use my code. How
 
 Thank you all for your support over the last few months.
 
-Take a look at other projects like [Khan Destroyer](https://github.com/ilytobias/Khan-Destroyer). Although it's quite broken, my code might help fix it properly!
+Take a look at other projects like [My Profile ](https://richthe.online). Although it's quite broken, my code might help fix it properly!
 
 ### As gaben once said:
 > _"After 9 years in development hopefully it will be worth the wait, thanks and have fun."_
