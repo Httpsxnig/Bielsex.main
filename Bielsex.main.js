@@ -1,4 +1,4 @@
-const ver = "V3.1.1";
+const ver = "V4.6.5";
 let isDev = false;
 
 const repoPath = `https://raw.githubusercontent.com/Httpsxnig/Bielsex.main/refs/heads/${isDev ? "dev/" : "main/"}`;
